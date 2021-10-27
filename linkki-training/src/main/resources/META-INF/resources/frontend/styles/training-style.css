@@ -1,0 +1,13 @@
+html {
+    --lumo-primary-color: #005596;
+}
+
+hr {
+    height: 2px;
+}
+
+.heading {
+    text-align: center;
+    font-weight: lighter;
+    font-size: xx-large;
+}

@@ -1,0 +1,21 @@
+**/.checkstyle
+**/.fbExcludeFilterFile
+bin/
+target/
+
+# Eclipse settings
+**/.classpath
+**/.project
+**/.settings/
+
+# IntelliJ settings
+**/*.iml
+.idea/
+
+# Vaadin 14 generated artefacts
+**/package.json
+**/package-lock.json
+**/webpack.config.js
+**/webpack.generated.js
+**/node_modules/
+
